@@ -1,0 +1,197 @@
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'planet', 'categories': ' (astronomical object)', 'confidence': ' 83%', 'start time': '  0.000', 'end time': ' 12.880'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'earth', 'categories': ' (planet)', 'confidence': ' 53%', 'start time': '  0.000', 'end time': ' 12.880'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'water resources', 'categories': ' (water)', 'confidence': ' 45%', 'start time': '  0.000', 'end time': ' 12.880'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'water resources', 'categories': ' (water)', 'confidence': ' 31%', 'start time': '105.120', 'end time': '108.320'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'aerial photography', 'categories': ' (photography)', 'confidence': ' 43%', 'start time': '  0.000', 'end time': ' 12.880'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'aerial photography', 'categories': ' (photography)', 'confidence': ' 90%', 'start time': '135.160', 'end time': '138.320'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'vegetation', 'categories': '', 'confidence': ' 40%', 'start time': '  0.000', 'end time': ' 12.880'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'vegetation', 'categories': '', 'confidence': ' 91%', 'start time': ' 12.920', 'end time': ' 21.680'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'vegetation', 'categories': '', 'confidence': ' 77%', 'start time': ' 21.720', 'end time': ' 27.880'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'vegetation', 'categories': '', 'confidence': ' 78%', 'start time': ' 27.920', 'end time': ' 31.800'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'vegetation', 'categories': '', 'confidence': ' 78%', 'start time': ' 31.840', 'end time': ' 34.720'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'vegetation', 'categories': '', 'confidence': ' 60%', 'start time': ' 39.560', 'end time': ' 45.200'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'vegetation', 'categories': '', 'confidence': ' 63%', 'start time': ' 45.240', 'end time': ' 49.960'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'vegetation', 'categories': '', 'confidence': ' 70%', 'start time': ' 50.000', 'end time': ' 54.960'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'vegetation', 'categories': '', 'confidence': ' 88%', 'start time': ' 55.000', 'end time': ' 58.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'vegetation', 'categories': '', 'confidence': ' 84%', 'start time': ' 58.040', 'end time': ' 64.880'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'vegetation', 'categories': '', 'confidence': ' 77%', 'start time': ' 84.600', 'end time': ' 91.280'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'vegetation', 'categories': '', 'confidence': ' 78%', 'start time': '101.760', 'end time': '105.080'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'vegetation', 'categories': '', 'confidence': ' 74%', 'start time': '117.520', 'end time': '120.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'vegetation', 'categories': '', 'confidence': ' 84%', 'start time': '128.040', 'end time': '131.600'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'vegetation', 'categories': '', 'confidence': ' 50%', 'start time': '138.360', 'end time': '146.200'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 95%', 'start time': ' 12.920', 'end time': ' 21.680'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 92%', 'start time': ' 21.720', 'end time': ' 27.880'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 96%', 'start time': ' 27.920', 'end time': ' 31.800'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 99%', 'start time': ' 31.840', 'end time': ' 34.720'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 56%', 'start time': ' 34.760', 'end time': ' 37.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 99%', 'start time': ' 37.040', 'end time': ' 39.520'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 99%', 'start time': ' 39.560', 'end time': ' 45.200'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 97%', 'start time': ' 45.240', 'end time': ' 49.960'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 97%', 'start time': ' 50.000', 'end time': ' 54.960'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 99%', 'start time': ' 55.000', 'end time': ' 58.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 98%', 'start time': ' 58.040', 'end time': ' 64.880'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 91%', 'start time': ' 64.920', 'end time': ' 71.840'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 67%', 'start time': ' 71.880', 'end time': ' 79.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 81%', 'start time': ' 79.040', 'end time': ' 84.560'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 96%', 'start time': ' 84.600', 'end time': ' 91.280'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 91%', 'start time': ' 91.320', 'end time': ' 95.800'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 91%', 'start time': ' 95.840', 'end time': ' 98.720'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 96%', 'start time': '101.760', 'end time': '105.080'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 91%', 'start time': '105.120', 'end time': '108.320'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 97%', 'start time': '111.120', 'end time': '113.560'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 87%', 'start time': '113.600', 'end time': '117.480'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 95%', 'start time': '117.520', 'end time': '120.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 91%', 'start time': '120.040', 'end time': '123.560'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 38%', 'start time': '123.600', 'end time': '126.080'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 67%', 'start time': '126.120', 'end time': '128.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 91%', 'start time': '128.040', 'end time': '131.600'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 67%', 'start time': '135.160', 'end time': '138.320'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature', 'categories': '', 'confidence': ' 92%', 'start time': '138.360', 'end time': '146.200'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'leaf', 'categories': ' (plant)', 'confidence': ' 73%', 'start time': ' 12.920', 'end time': ' 21.680'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'leaf', 'categories': ' (plant)', 'confidence': ' 30%', 'start time': ' 21.720', 'end time': ' 27.880'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'leaf', 'categories': ' (plant)', 'confidence': ' 45%', 'start time': ' 37.040', 'end time': ' 39.520'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'leaf', 'categories': ' (plant)', 'confidence': ' 63%', 'start time': ' 39.560', 'end time': ' 45.200'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'leaf', 'categories': ' (plant)', 'confidence': ' 68%', 'start time': ' 45.240', 'end time': ' 49.960'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'leaf', 'categories': ' (plant)', 'confidence': ' 68%', 'start time': ' 55.000', 'end time': ' 58.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'leaf', 'categories': ' (plant)', 'confidence': ' 67%', 'start time': '101.760', 'end time': '105.080'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'sunlight', 'categories': ' (light)', 'confidence': ' 60%', 'start time': ' 12.920', 'end time': ' 21.680'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'sunlight', 'categories': ' (light)', 'confidence': ' 46%', 'start time': ' 27.920', 'end time': ' 31.800'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'sunlight', 'categories': ' (light)', 'confidence': ' 60%', 'start time': '138.360', 'end time': '146.200'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'flora', 'categories': ' (plant)', 'confidence': ' 54%', 'start time': ' 12.920', 'end time': ' 21.680'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'flora', 'categories': ' (plant)', 'confidence': ' 71%', 'start time': ' 55.000', 'end time': ' 58.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'flora', 'categories': ' (plant)', 'confidence': ' 43%', 'start time': ' 84.600', 'end time': ' 91.280'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'moisture', 'categories': ' (water)', 'confidence': ' 38%', 'start time': ' 12.920', 'end time': ' 21.680'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'tree', 'categories': ' (plant)', 'confidence': ' 97%', 'start time': ' 27.920', 'end time': ' 31.800'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'tree', 'categories': ' (plant)', 'confidence': ' 94%', 'start time': ' 39.560', 'end time': ' 45.200'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'tree', 'categories': ' (plant)', 'confidence': ' 95%', 'start time': ' 45.240', 'end time': ' 49.960'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'tree', 'categories': ' (plant)', 'confidence': ' 70%', 'start time': ' 58.040', 'end time': ' 64.880'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'tree', 'categories': ' (plant)', 'confidence': ' 94%', 'start time': ' 84.600', 'end time': ' 91.280'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'tree', 'categories': ' (plant)', 'confidence': ' 96%', 'start time': ' 95.840', 'end time': ' 98.720'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'tree', 'categories': ' (plant)', 'confidence': ' 96%', 'start time': '117.520', 'end time': '120.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'tree', 'categories': ' (plant)', 'confidence': ' 93%', 'start time': '128.040', 'end time': '131.600'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'tree', 'categories': ' (plant)', 'confidence': ' 96%', 'start time': '138.360', 'end time': '146.200'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'forest', 'categories': ' (geographical feature)', 'confidence': ' 91%', 'start time': ' 27.920', 'end time': ' 31.800'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'forest', 'categories': ' (geographical feature)', 'confidence': ' 55%', 'start time': ' 31.840', 'end time': ' 34.720'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'forest', 'categories': ' (geographical feature)', 'confidence': ' 42%', 'start time': ' 45.240', 'end time': ' 49.960'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'forest', 'categories': ' (geographical feature)', 'confidence': ' 88%', 'start time': ' 84.600', 'end time': ' 91.280'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'forest', 'categories': ' (geographical feature)', 'confidence': ' 56%', 'start time': ' 95.840', 'end time': ' 98.720'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'forest', 'categories': ' (geographical feature)', 'confidence': ' 68%', 'start time': '138.360', 'end time': '146.200'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'grove', 'categories': ' (tree)', 'confidence': ' 77%', 'start time': ' 27.920', 'end time': ' 31.800'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'woodland', 'categories': ' (forest)', 'confidence': ' 76%', 'start time': ' 27.920', 'end time': ' 31.800'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'woodland', 'categories': ' (forest)', 'confidence': ' 54%', 'start time': ' 95.840', 'end time': ' 98.720'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'woodland', 'categories': ' (forest)', 'confidence': ' 37%', 'start time': '138.360', 'end time': '146.200'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'ecosystem', 'categories': ' (geographical feature)', 'confidence': ' 58%', 'start time': ' 27.920', 'end time': ' 31.800'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'old growth forest', 'categories': ' (forest)', 'confidence': ' 41%', 'start time': ' 27.920', 'end time': ' 31.800'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'temperate broadleaf and mixed forest', 'categories': ' (geographical feature)', 'confidence': ' 38%', 'start time': ' 27.920', 'end time': ' 31.800'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature reserve', 'categories': ' (geographical feature)', 'confidence': ' 38%', 'start time': ' 27.920', 'end time': ' 31.800'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature reserve', 'categories': ' (geographical feature)', 'confidence': ' 36%', 'start time': ' 50.000', 'end time': ' 54.960'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'nature reserve', 'categories': ' (geographical feature)', 'confidence': ' 37%', 'start time': ' 84.600', 'end time': ' 91.280'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'jungle', 'categories': ' (geographical feature)', 'confidence': ' 37%', 'start time': ' 27.920', 'end time': ' 31.800'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'jungle', 'categories': ' (geographical feature)', 'confidence': ' 44%', 'start time': ' 31.840', 'end time': ' 34.720'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'jungle', 'categories': ' (geographical feature)', 'confidence': ' 67%', 'start time': ' 84.600', 'end time': ' 91.280'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'stream', 'categories': ' (geographical feature)', 'confidence': ' 58%', 'start time': ' 31.840', 'end time': ' 34.720'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'moss', 'categories': ' (plant)', 'confidence': ' 42%', 'start time': ' 31.840', 'end time': ' 34.720'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'moss', 'categories': ' (plant)', 'confidence': ' 42%', 'start time': '101.760', 'end time': '105.080'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'rainforest', 'categories': ' (forest)', 'confidence': ' 36%', 'start time': ' 31.840', 'end time': ' 34.720'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'rainforest', 'categories': ' (forest)', 'confidence': ' 64%', 'start time': ' 84.600', 'end time': ' 91.280'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'insect', 'categories': ' (animal)', 'confidence': ' 93%', 'start time': ' 34.760', 'end time': ' 37.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'insect', 'categories': ' (animal)', 'confidence': ' 91%', 'start time': ' 98.760', 'end time': '101.720'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'insect', 'categories': ' (animal)', 'confidence': ' 78%', 'start time': '108.360', 'end time': '111.080'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'insect', 'categories': ' (animal)', 'confidence': ' 86%', 'start time': '111.120', 'end time': '113.560'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'animal', 'categories': '', 'confidence': ' 52%', 'start time': ' 34.760', 'end time': ' 37.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'animal', 'categories': '', 'confidence': ' 76%', 'start time': ' 37.040', 'end time': ' 39.520'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'animal', 'categories': '', 'confidence': ' 84%', 'start time': ' 64.920', 'end time': ' 71.840'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'animal', 'categories': '', 'confidence': ' 93%', 'start time': ' 71.880', 'end time': ' 79.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'animal', 'categories': '', 'confidence': ' 89%', 'start time': ' 79.040', 'end time': ' 84.560'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'animal', 'categories': '', 'confidence': ' 53%', 'start time': ' 84.600', 'end time': ' 91.280'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'animal', 'categories': '', 'confidence': ' 89%', 'start time': ' 91.320', 'end time': ' 95.800'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'animal', 'categories': '', 'confidence': ' 53%', 'start time': ' 98.760', 'end time': '101.720'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'animal', 'categories': '', 'confidence': ' 65%', 'start time': '101.760', 'end time': '105.080'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'animal', 'categories': '', 'confidence': ' 41%', 'start time': '108.360', 'end time': '111.080'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'animal', 'categories': '', 'confidence': ' 70%', 'start time': '111.120', 'end time': '113.560'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'animal', 'categories': '', 'confidence': ' 88%', 'start time': '120.040', 'end time': '123.560'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'animal', 'categories': '', 'confidence': ' 89%', 'start time': '123.600', 'end time': '126.080'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'butterfly', 'categories': ' (insect, animal)', 'confidence': ' 48%', 'start time': ' 34.760', 'end time': ' 37.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'butterfly', 'categories': ' (insect, animal)', 'confidence': ' 99%', 'start time': '111.120', 'end time': '113.560'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'invertebrate', 'categories': ' (animal)', 'confidence': ' 38%', 'start time': ' 34.760', 'end time': ' 37.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'invertebrate', 'categories': ' (animal)', 'confidence': ' 53%', 'start time': ' 98.760', 'end time': '101.720'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'invertebrate', 'categories': ' (animal)', 'confidence': ' 38%', 'start time': '108.360', 'end time': '111.080'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'invertebrate', 'categories': ' (animal)', 'confidence': ' 38%', 'start time': '111.120', 'end time': '113.560'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'spider web', 'categories': ' (spider)', 'confidence': ' 75%', 'start time': ' 37.040', 'end time': ' 39.520'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'spider', 'categories': ' (animal)', 'confidence': ' 37%', 'start time': ' 37.040', 'end time': ' 39.520'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'branch', 'categories': '', 'confidence': ' 72%', 'start time': ' 39.560', 'end time': ' 45.200'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'branch', 'categories': '', 'confidence': ' 58%', 'start time': ' 45.240', 'end time': ' 49.960'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'branch', 'categories': '', 'confidence': ' 58%', 'start time': ' 95.840', 'end time': ' 98.720'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'branch', 'categories': '', 'confidence': ' 58%', 'start time': '117.520', 'end time': '120.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'branch', 'categories': '', 'confidence': ' 58%', 'start time': '138.360', 'end time': '146.200'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'woody plant', 'categories': ' (plant)', 'confidence': ' 48%', 'start time': ' 39.560', 'end time': ' 45.200'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'woody plant', 'categories': ' (plant)', 'confidence': ' 51%', 'start time': ' 95.840', 'end time': ' 98.720'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'woody plant', 'categories': ' (plant)', 'confidence': ' 48%', 'start time': '117.520', 'end time': '120.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'woody plant', 'categories': ' (plant)', 'confidence': ' 35%', 'start time': '138.360', 'end time': '146.200'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'plant', 'categories': '', 'confidence': ' 34%', 'start time': ' 39.560', 'end time': ' 45.200'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'plant', 'categories': '', 'confidence': ' 41%', 'start time': ' 45.240', 'end time': ' 49.960'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'plant', 'categories': '', 'confidence': ' 39%', 'start time': ' 55.000', 'end time': ' 58.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'plant', 'categories': '', 'confidence': ' 60%', 'start time': ' 84.600', 'end time': ' 91.280'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'plant', 'categories': '', 'confidence': ' 60%', 'start time': '117.520', 'end time': '120.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'plant', 'categories': '', 'confidence': ' 60%', 'start time': '128.040', 'end time': '131.600'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'mountain', 'categories': ' (geographical feature)', 'confidence': ' 91%', 'start time': ' 50.000', 'end time': ' 54.960'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'mountain', 'categories': ' (geographical feature)', 'confidence': ' 53%', 'start time': '113.600', 'end time': '117.480'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'mountain', 'categories': ' (geographical feature)', 'confidence': ' 68%', 'start time': '135.160', 'end time': '138.320'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'valley', 'categories': ' (geographical feature)', 'confidence': ' 86%', 'start time': ' 50.000', 'end time': ' 54.960'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'wilderness', 'categories': ' (geographical feature)', 'confidence': ' 59%', 'start time': ' 50.000', 'end time': ' 54.960'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'highland', 'categories': ' (geographical feature)', 'confidence': ' 44%', 'start time': ' 50.000', 'end time': ' 54.960'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'highland', 'categories': ' (geographical feature)', 'confidence': ' 37%', 'start time': '113.600', 'end time': '117.480'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'highland', 'categories': ' (geographical feature)', 'confidence': ' 50%', 'start time': '135.160', 'end time': '138.320'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'hill', 'categories': ' (geographical feature)', 'confidence': ' 39%', 'start time': ' 50.000', 'end time': ' 54.960'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'hill', 'categories': ' (geographical feature)', 'confidence': ' 53%', 'start time': '113.600', 'end time': '117.480'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'hill', 'categories': ' (geographical feature)', 'confidence': ' 32%', 'start time': '135.160', 'end time': '138.320'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'flower', 'categories': ' (plant)', 'confidence': ' 68%', 'start time': ' 55.000', 'end time': ' 58.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'wildflower', 'categories': ' (flower)', 'confidence': ' 66%', 'start time': ' 55.000', 'end time': ' 58.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'ape', 'categories': ' (mammal)', 'confidence': ' 31%', 'start time': ' 64.920', 'end time': ' 71.840'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'ape', 'categories': ' (mammal)', 'confidence': ' 65%', 'start time': ' 71.880', 'end time': ' 79.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'ape', 'categories': ' (mammal)', 'confidence': ' 49%', 'start time': ' 79.040', 'end time': ' 84.560'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'ape', 'categories': ' (mammal)', 'confidence': ' 49%', 'start time': '123.600', 'end time': '126.080'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'wildlife', 'categories': ' (animal)', 'confidence': ' 48%', 'start time': ' 71.880', 'end time': ' 79.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'wildlife', 'categories': ' (animal)', 'confidence': ' 56%', 'start time': ' 79.040', 'end time': ' 84.560'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'wildlife', 'categories': ' (animal)', 'confidence': ' 56%', 'start time': ' 91.320', 'end time': ' 95.800'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'wildlife', 'categories': ' (animal)', 'confidence': ' 49%', 'start time': '120.040', 'end time': '123.560'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'wildlife', 'categories': ' (animal)', 'confidence': ' 56%', 'start time': '123.600', 'end time': '126.080'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'terrestrial animal', 'categories': ' (animal)', 'confidence': ' 44%', 'start time': ' 71.880', 'end time': ' 79.000'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'trunk', 'categories': ' (tree)', 'confidence': ' 81%', 'start time': ' 95.840', 'end time': ' 98.720'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'waterfall', 'categories': '', 'confidence': ' 94%', 'start time': '105.120', 'end time': '108.320'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'water feature', 'categories': '', 'confidence': ' 80%', 'start time': '105.120', 'end time': '108.320'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'watercourse', 'categories': '', 'confidence': ' 39%', 'start time': '105.120', 'end time': '108.320'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'body of water', 'categories': '', 'confidence': ' 37%', 'start time': '105.120', 'end time': '108.320'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'canyoning', 'categories': ' (climbing)', 'confidence': ' 37%', 'start time': '105.120', 'end time': '108.320'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'ravine', 'categories': ' (geographical feature)', 'confidence': ' 31%', 'start time': '105.120', 'end time': '108.320'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'plant stem', 'categories': ' (plant)', 'confidence': ' 39%', 'start time': '108.360', 'end time': '111.080'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'caterpillar', 'categories': ' (animal, insect)', 'confidence': ' 33%', 'start time': '108.360', 'end time': '111.080'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'moths and butterflies', 'categories': ' (insect)', 'confidence': ' 97%', 'start time': '111.120', 'end time': '113.560'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'monarch butterfly', 'categories': ' (butterfly)', 'confidence': ' 72%', 'start time': '111.120', 'end time': '113.560'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'pollinator', 'categories': ' (animal)', 'confidence': ' 48%', 'start time': '111.120', 'end time': '113.560'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'brush footed butterfly', 'categories': ' (butterfly)', 'confidence': ' 40%', 'start time': '111.120', 'end time': '113.560'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'sky', 'categories': '', 'confidence': ' 54%', 'start time': '113.600', 'end time': '117.480'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'sky', 'categories': '', 'confidence': ' 95%', 'start time': '133.000', 'end time': '135.120'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'sky', 'categories': '', 'confidence': ' 66%', 'start time': '135.160', 'end time': '138.320'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'mist', 'categories': '', 'confidence': ' 37%', 'start time': '113.600', 'end time': '117.480'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'morning', 'categories': '', 'confidence': ' 31%', 'start time': '113.600', 'end time': '117.480'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'baboon', 'categories': ' (monkey)', 'confidence': ' 81%', 'start time': '123.600', 'end time': '126.080'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'macaque', 'categories': ' (monkey)', 'confidence': ' 62%', 'start time': '123.600', 'end time': '126.080'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'old world monkey', 'categories': ' (monkey)', 'confidence': ' 38%', 'start time': '123.600', 'end time': '126.080'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'palm tree', 'categories': ' (tree)', 'confidence': ' 69%', 'start time': '128.040', 'end time': '131.600'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'ocean', 'categories': '', 'confidence': ' 92%', 'start time': '131.640', 'end time': '132.960'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'ocean', 'categories': '', 'confidence': ' 92%', 'start time': '133.000', 'end time': '135.120'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'sea', 'categories': '', 'confidence': ' 83%', 'start time': '131.640', 'end time': '132.960'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'sea', 'categories': '', 'confidence': ' 85%', 'start time': '133.000', 'end time': '135.120'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'wave', 'categories': '', 'confidence': ' 72%', 'start time': '131.640', 'end time': '132.960'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'wind wave', 'categories': '', 'confidence': ' 31%', 'start time': '131.640', 'end time': '132.960'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'cloud', 'categories': '', 'confidence': ' 70%', 'start time': '133.000', 'end time': '135.120'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'horizon', 'categories': ' (geographical feature)', 'confidence': ' 68%', 'start time': '133.000', 'end time': '135.120'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'horizon', 'categories': ' (geographical feature)', 'confidence': ' 54%', 'start time': '135.160', 'end time': '138.320'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'lake', 'categories': '', 'confidence': ' 44%', 'start time': '135.160', 'end time': '138.320'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'lake district', 'categories': ' (lake)', 'confidence': ' 35%', 'start time': '135.160', 'end time': '138.320'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'logo', 'categories': ' (graphics)', 'confidence': ' 52%', 'start time': '146.240', 'end time': '155.760'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'graphics', 'categories': ' (artwork)', 'confidence': ' 44%', 'start time': '146.240', 'end time': '155.760'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'text', 'categories': '', 'confidence': ' 39%', 'start time': '146.240', 'end time': '155.760'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'text', 'categories': '', 'confidence': ' 33%', 'start time': '155.800', 'end time': '162.520'}
+{'file_name': 'gs://video_ai_demo123/video/video1.mp4', 'entity': 'font', 'categories': ' (software)', 'confidence': ' 31%', 'start time': '146.240', 'end time': '155.760'}
